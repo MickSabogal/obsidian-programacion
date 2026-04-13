@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Frontend/HTML/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de HTML"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -129,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Frontend/HTML/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de HTML"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -172,13 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Frontend/HTML/HTML.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de HTML"
+              "title": "Esquema"
             }
           }
         ]
@@ -200,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3c1a50c20d678dd",
+  "active": "f0c6a445f5be1182",
   "lastOpenFiles": [
-    "01-Frontend/HTML/Elementos.md",
     "01-Frontend/HTML/HTML.md",
+    "01-Frontend/HTML/Elementos.md",
     "0x-Recursos/Atajos.md",
     "00-Sistema/Índice de programación.md",
     "00-Sistema/Dashboard.md",
