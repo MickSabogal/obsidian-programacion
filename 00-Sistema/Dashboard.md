@@ -1,4 +1,4 @@
-# 🧭 Indice de programación
+# 🧭 Índice de programación
 - [[Índice de programación]]
 # 🎯 En progreso:
 

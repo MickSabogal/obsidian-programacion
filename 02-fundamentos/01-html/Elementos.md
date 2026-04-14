@@ -1,7 +1,5 @@
 ---
 status: en_progreso
-area: frontend
-
 ---
 
 - ### [[Índice de programación]]
