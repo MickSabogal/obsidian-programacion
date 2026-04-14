@@ -199,11 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3c1a50c20d678dd",
+  "active": "8d432160bea68118",
   "lastOpenFiles": [
-    "00-sistema/Dashboard.md",
-    "03-proyectos/Heading Elements.md",
+    "assets/html/Pasted image 20260414191401.png",
     "02-fundamentos/01-html/Elementos.md",
+    "03-proyectos/Heading Elements.md",
+    "assets/proyectos/Pasted image 20260414185526.png",
+    "assets/proyectos",
+    "00-sistema/Dashboard.md",
     "02-fundamentos/01-html/HTML.md",
     "00-sistema/Índice de programación.md",
     "02-fundamentos/02-css/Grid.md",
@@ -233,7 +236,6 @@
     "02-fundamentos/01-html",
     "Programación/Elementos.md",
     "01-Frontend/Sin título.md",
-    "02-fundamentos",
     "Programación/FrontEnd.md",
     "Programación/BackEnd.md",
     "Bienvenido.md"
