@@ -14,7 +14,7 @@ La estructura de este código se basa en #tags con contenido que forman [[Elemen
 Los #tags son las instrucciones o etiquetas que le dicen al navegador como debe mostrar un contenido. Mientras que los [[Elementos]] son el conjunto de tags con contenido inscrito dentro del tag.
 
 Recordamos que los #tags se componen de:
-- **Tag de apertura:** ```< >
-- **Tag de cierre:** ```</>
-- **Excepción**: ```<img src="">``` en
+- **Tag de apertura:** `< >`
+- **Tag de cierre:** `</>`
+- **Excepción**: `<img src="">` en
 # [[Elementos]]
