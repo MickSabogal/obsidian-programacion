@@ -2,7 +2,9 @@
 - [[Índice de programación]]
 # 🎯 En progreso:
 
-- [ ] [[HTML]]
+list  
+from ""  
+where status = "en_progreso"
 # 🚀 Proximamente:
 
 - [ ] [[CSS]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Frontend/HTML/Elementos.md",
+                "file": "00-Sistema/Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elementos"
+              "title": "Dashboard"
             }
           }
         ]
@@ -199,9 +199,11 @@
   },
   "active": "e3c1a50c20d678dd",
   "lastOpenFiles": [
-    "01-Recursos/Atajos.md",
-    "02-Frontend/HTML/HTML.md",
     "02-Frontend/HTML/Elementos.md",
+    "02-Frontend/HTML/HTML.md",
+    "00-Sistema/Dashboard.md",
+    "00-Sistema/Índice de programación.md",
+    "01-Recursos/Atajos.md",
     "Assets/HTML/Pasted image 20260414015201.png",
     "Assets/HTML",
     "Assets/Sin título.md",
@@ -210,8 +212,6 @@
     "01-Frontend/HTML/Pasted image 20260414014638.png",
     "Pasted image 20260414015015.png",
     "Elementos de encabezado.md",
-    "00-Sistema/Dashboard.md",
-    "00-Sistema/Índice de programación.md",
     "01-Recursos",
     "gi.md",
     "CSS.md",

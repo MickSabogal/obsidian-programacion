@@ -1,7 +1,11 @@
 - ### [[Índice de programación]]
 - ### [[Dashboard]]
 - ### [[Atajos]]
+---
+status: en_progreso
+area: frontend
 
+---
 # Elementos de encabezado
 
 Formados por la idea de la encuadernación, estos representan la jerarquía para los títulos y van desde `<h1> </h1>` hasta `<h6> </h6>` donde `<h1>` es el mayor de los #tags y `<h6>` el menor respectivamente. 

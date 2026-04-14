@@ -1,7 +1,12 @@
 - ### [[Índice de programación]]
 - ### [[Dashboard]]
 - ### [[Atajos]]
-# #Fundamentos
+---
+status: en_progreso
+area: frontend
+
+---
+## #Fundamentos
 
 Define el cuerpo de una página web. 
 
@@ -17,4 +22,4 @@ Recordamos que los #tags se componen de:
 - **Tag de apertura:** `< >`
 - **Tag de cierre:** `</>`
 - **Excepción**: `<img src="">` en
-# [[Elementos]]
+## [[Elementos]]
