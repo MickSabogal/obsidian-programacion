@@ -36,8 +36,11 @@ Al igual que el elemento de encabezado tiene #tags apertura y cierre, solo que e
 
 ![[Pasted image 20260414191401.png]]
 
+## Ejercicio desarrollado
+
+### [[Paragraph Elements]]
 # Elementos nulos
 
-Existen esl
+Existen elementos que al igual que `<img>` tienen excepciones
 
 
