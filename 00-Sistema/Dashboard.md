@@ -61,7 +61,10 @@ where status = "en_progreso"
 ## ✅Completado:
 
 ```dataview  
-table tipo, status
-from "03-proyectos"  
-where status = "completado" 
+TABLE  
+tipo as "Tipo",
+progreso + "%" as "Avance"     
+FROM "03-proyectos" 
+WHERE status = "completado"  
+SORT date 
 ```
