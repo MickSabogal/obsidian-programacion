@@ -5,6 +5,8 @@ status: en_progreso
 - ### [[Índice de programación]]
 - ### [[Dashboard]]
 - ### [[Atajos]]
+
+# #Fundamentos 
 # Elementos de encabezado
 
 Formados por la idea de la encuadernación, estos representan la jerarquía para los títulos y van desde `<h1> </h1>` hasta `<h6> </h6>` donde `<h1>` es el mayor de los #tags y `<h6>` el menor respectivamente. 
@@ -33,4 +35,9 @@ Al igual que el elemento de encabezado tiene #tags apertura y cierre, solo que e
 `<p>Soy un parágrafo</p>`
 
 ![[Pasted image 20260414191401.png]]
+
+# Elementos nulos
+
+Existen esl
+
 

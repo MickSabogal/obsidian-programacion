@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-sistema/Dashboard.md",
+                "file": "02-fundamentos/01-html/Elementos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "Elementos"
             }
           }
         ]
@@ -201,20 +201,20 @@
   },
   "active": "e3c1a50c20d678dd",
   "lastOpenFiles": [
-    "00-sistema/Índice de programación.md",
+    "02-fundamentos/01-html/HTML.md",
+    "02-fundamentos/02-css/Bootstrap.md",
     "03-proyectos/Paragraph Elements.md",
     "03-proyectos/Heading Elements.md",
-    "03-proyectos/test.md",
-    "00-sistema/Dashboard.md",
-    "02-fundamentos/02-css/CSS.md",
     "02-fundamentos/01-html/Elementos.md",
     "assets/html/Pasted image 20260414191401.png",
+    "00-sistema/Índice de programación.md",
+    "00-sistema/Dashboard.md",
+    "03-proyectos/test.md",
+    "02-fundamentos/02-css/CSS.md",
     "assets/proyectos/Pasted image 20260414185526.png",
     "assets/proyectos",
-    "02-fundamentos/01-html/HTML.md",
     "02-fundamentos/02-css/Grid.md",
     "02-fundamentos/02-css/Flexbox.md",
-    "02-fundamentos/02-css/Bootstrap.md",
     "01-recursos/Atajos.md",
     "03-proyectos",
     "02-fundamentos/03-javascript/JavaScript.md",
