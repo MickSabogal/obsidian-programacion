@@ -2,9 +2,12 @@
 - [[Índice de programación]]
 # 🎯 En progreso:
 
-list  
+```dataview  
+list
 from ""  
-where status = "en_progreso"
+where status = "en_progreso"  
+sort file.name asc
+```
 # 🚀 Proximamente:
 
 - [ ] [[CSS]]
@@ -26,6 +29,18 @@ where status = "en_progreso"
 
 # ✅Completado:
 
+```dataview
+list
+from ""  
+where status = "completado"  
+sort file.name asc
+```
+
 # Hoy:
 
-[[HTML]]
+```dataview  
+list
+from ""  
+where status = "en_progreso"  
+sort file.name asc
+```

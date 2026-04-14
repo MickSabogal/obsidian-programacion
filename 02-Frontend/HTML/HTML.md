@@ -1,11 +1,11 @@
-- ### [[Índice de programación]]
-- ### [[Dashboard]]
-- ### [[Atajos]]
 ---
 status: en_progreso
 area: frontend
-
 ---
+
+- ### [[Índice de programación]]
+- ### [[Dashboard]]
+- ### [[Atajos]]
 ## #Fundamentos
 
 Define el cuerpo de una página web. 
