@@ -28,7 +28,7 @@ Formados por la idea de la encuadernación, estos representan la jerarquía para
 
 # Elemento de parágrafo
 
-Al igual que el elemento de encabezado tiene #tags apertura y cierre, solo que este es para que le diga al navegador que muestre el contenido como un párrafo. Esta es la manera correcta semánticamente para que en caso también de que el utilizador esté usando un lector de pantallas, este pueda entender el flujo de contenido de la pagina web.
+Al igual que los [[Elementos]] de encabezado tiene #tags apertura y cierre, solo que este es para que le diga al navegador que muestre el contenido como un párrafo. Esta es la manera correcta semánticamente para que en caso también de que el utilizador esté usando un lector de pantallas, este pueda entender el flujo de contenido de la pagina web.
 
 #Estructura:
 
@@ -41,6 +41,9 @@ Al igual que el elemento de encabezado tiene #tags apertura y cierre, solo que e
 ### [[Paragraph Elements]]
 # Elementos nulos
 
-Existen elementos que al igual que `<img>` tienen excepciones
+Existen [[Elementos]] que al igual que `<img>` son una excepción, existen también otros [[Elementos]] donde está prohibido colocar contenido dentro de los #tags como son los casos de `<hr />` y `<br />` 
+
+- ## <hr/> : Linea horizontal:
+	- 
 
 
