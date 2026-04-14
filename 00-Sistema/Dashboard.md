@@ -1,14 +1,17 @@
 # 🧭 Índice de programación
 - [[Índice de programación]]
-# 🎯 En progreso:
+
+# Fundamentos
+
+## 🎯 En progreso:
 
 ```dataview  
 list
-from ""  
+from "02-fundamentos"  
 where status = "en_progreso"  
 sort file.name asc
 ```
-# 🚀 Proximamente:
+## 🚀 Proximamente:
 
 - [ ] [[CSS]]
 - [ ] [[Flexbox]]
@@ -27,11 +30,11 @@ sort file.name asc
 - [ ] [[React]]
 - [ ] [[Web 3.0]]
 
-# ✅Completado:
+## ✅Completado:
 
 ```dataview
 list
-from ""  
+from "02-fundamentos"  
 where status = "completado"  
 sort file.name asc
 ```
@@ -40,7 +43,25 @@ sort file.name asc
 
 ```dataview  
 list
-from ""  
+from "02-fundamentos"  
 where status = "en_progreso"  
 sort file.name asc
+```
+
+# Proyectos
+
+## 🎯 En progreso:
+
+```dataview  
+list
+from "03-proyectos"  
+where status = "en_progreso" 
+```
+
+## ✅Completado:
+
+```dataview  
+table tipo, status
+from "03-proyectos"  
+where status = "completado" 
 ```
