@@ -43,7 +43,12 @@ Al igual que los [[Elementos]] de encabezado tiene #tags apertura y cierre, solo
 
 Existen [[Elementos]] que al igual que `<img>` son una excepción, existen también otros [[Elementos]] donde está prohibido colocar contenido dentro de los #tags como son los casos de `<hr />` y `<br />` 
 
-- ## <hr/> : Linea horizontal:
-	- 
+- ## <hr /> : Línea horizontal:
 
-
+	 Este elemento se usa para crear una línea divisoria en la página. Se usa para marcar cambios de sección o separar bloques de contenido.
+	 #Estructura :
+```
+	 <p>Sección 1</p>
+	 <hr />
+	 <p>Sección 2</p>
+```
