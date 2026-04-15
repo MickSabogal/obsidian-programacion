@@ -45,10 +45,27 @@ Existen [[Elementos]] que al igual que `<img>` son una excepción, existen tambi
 
 - ## <hr /> : Línea horizontal:
 
-	 Este elemento se usa para crear una línea divisoria en la página. Se usa para marcar cambios de sección o separar bloques de contenido.
-	 #Estructura :
+	Este elemento se usa para crear una línea divisoria en la página. Se usa para marcar cambios de sección o separar bloques de contenido. Crea renglones.
+	 
+	#Estructura :
 ```
 	 <p>Sección 1</p>
 	 <hr />
 	 <p>Sección 2</p>
 ```
+
+- ## <br />:  Elemento de quiebre:
+
+	Este elemento se utiliza cuando quieres separar las líneas dentro de un parágrafo para uso semántico o estructural.
+	
+	#Estructura:
+```
+	<p>
+	To see a World in a Grain of Sand<br />
+	And a Heaven in a Wild Flower,<br />
+	Hold Infinity in the palm od your hand<br />
+	And Eternity in an hour.<br />
+	</p>
+```
+
+	 -
