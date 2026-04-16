@@ -59,13 +59,16 @@ Existen [[Elementos]] que al igual que `<img>` son una excepción, existen tambi
 	Este elemento se utiliza cuando quieres separar las líneas dentro de un parágrafo para uso semántico o estructural.
 	
 	#Estructura:
-```
-	<p>
+	
+```<p>
 	To see a World in a Grain of Sand<br />
 	And a Heaven in a Wild Flower,<br />
 	Hold Infinity in the palm od your hand<br />
 	And Eternity in an hour.<br />
 	</p>
-```
+``` 
 
-	 -
+- #Recomendaciones:
+	- No usar el `<br />` para separar párrafos cuando no es necesario, y que esto hace que los lectores de pantalla para ciegos entren en conflicto y pierdan el sentido del contenido. Es mejor crear varios [[Elementos]] `<p>`
+	- Tanto para el `<br />` y el `<hr />` se recomienda tener siempre el `/` para ayudar visualmente al cerebro de que es un elemento nulo.
+

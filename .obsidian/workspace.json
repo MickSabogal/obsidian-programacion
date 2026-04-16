@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "50ff2b70c21c238b",
+        "id": "e8d767740a055e65",
         "type": "tabs",
+        "dimension": 52.785923753665685,
         "children": [
           {
-            "id": "c2772e739ad5397d",
+            "id": "aee68aa2f05959ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-fundamentos/01-html/Elementos.md",
+                "file": "03-proyectos/Heading Elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elementos"
+              "title": "Heading Elements"
             }
           }
         ]
       },
       {
-        "id": "e8d767740a055e65",
+        "id": "1727ccb30772bc7f",
         "type": "tabs",
+        "dimension": 47.214076246334315,
         "children": [
           {
             "id": "e3c1a50c20d678dd",
@@ -197,17 +199,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2772e739ad5397d",
+  "active": "aee68aa2f05959ee",
   "lastOpenFiles": [
-    "00-sistema/Dashboard.md",
-    "02-fundamentos/01-html/Elementos.md",
-    "03-proyectos/Heading Elements.md",
     "03-proyectos/Paragraph Elements.md",
+    "03-proyectos/Movie Ranking Project 01.md",
+    "assets/proyectos/Pasted image 20260416170119.png",
+    "03-proyectos/Heading Elements.md",
+    "00-sistema/Dashboard.md",
+    "00-sistema/Índice de programación.md",
+    "03-proyectos/Movie Raking Project.md",
+    "02-fundamentos/01-html/Elementos.md",
     "02-fundamentos/01-html/HTML.md",
     "02-fundamentos/02-css/Bootstrap.md",
     "assets/html/Pasted image 20260414191401.png",
-    "00-sistema/Índice de programación.md",
-    "03-proyectos/test.md",
     "02-fundamentos/02-css/CSS.md",
     "assets/proyectos/Pasted image 20260414185526.png",
     "assets/proyectos",
@@ -237,7 +241,6 @@
     "Programación/Elementos.md",
     "01-Frontend/Sin título.md",
     "Programación/FrontEnd.md",
-    "Programación/BackEnd.md",
-    "Bienvenido.md"
+    "Programación/BackEnd.md"
   ]
 }
