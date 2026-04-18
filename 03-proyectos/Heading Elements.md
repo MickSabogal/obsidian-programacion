@@ -8,7 +8,7 @@ progreso: "100"
 - ### [[Atajos]]
 # 🎯Objetivo:
 
-Aprender a diferenciar los tipos de elementos de encabezado.
+Aprender a diferenciar los tipos de #Elementos de encabezado.
 
 ![[Pasted image 20260414185526.png]]
 
