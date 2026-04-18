@@ -12,3 +12,7 @@ progreso: "100"
 Aprender el uso de elementos de parágrafo separando un texto en 3 párrafos.
 
 ![[Pasted image 20260414191401.png]]
+
+# Tecnologías:
+
+- ## HTML

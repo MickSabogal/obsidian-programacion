@@ -12,3 +12,6 @@ Utilizar todo lo aprendido para crear un nuevo proyecto donde se muestre un rank
 
 ![[Pasted image 20260416170119.png]]
 
+# Tecnologías:
+
+- ## HTML

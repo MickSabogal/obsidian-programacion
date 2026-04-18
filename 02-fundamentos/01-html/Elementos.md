@@ -72,3 +72,9 @@ Existen [[Elementos]] que al igual que `<img>` son una excepción, existen tambi
 	- No usar el `<br />` para separar párrafos cuando no es necesario, y que esto hace que los lectores de pantalla para ciegos entren en conflicto y pierdan el sentido del contenido. Es mejor crear varios [[Elementos]] `<p>`
 	- Tanto para el `<br />` y el `<hr />` se recomienda tener siempre el `/` para ayudar visualmente al cerebro de que es un elemento nulo.
 
+# Elementos de lista
+
+Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y se pueden hacer de 2 formas, Lista no ordenada y Lista ordenada.
+
+   - ## Lista no ordenada:
+	Se usan para enlistar [[Elementos]] que no requieren una jerarquía como por decir productos 

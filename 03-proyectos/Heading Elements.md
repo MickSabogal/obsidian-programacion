@@ -11,3 +11,8 @@ progreso: "100"
 Aprender a diferenciar los tipos de elementos de encabezado.
 
 ![[Pasted image 20260414185526.png]]
+
+# Tecnologías: 
+
+- ## HTML
+
