@@ -60,7 +60,8 @@ Existen [[Elementos]] que al igual que `<img>` son una excepción, existen tambi
 	
 	#Estructura:
 	
-```<p>
+```
+	<p>
 	To see a World in a Grain of Sand<br />
 	And a Heaven in a Wild Flower,<br />
 	Hold Infinity in the palm od your hand<br />
@@ -74,7 +75,13 @@ Existen [[Elementos]] que al igual que `<img>` son una excepción, existen tambi
 
 # Elementos de lista
 
-Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y se pueden hacer de 2 formas, Lista no ordenada y Lista ordenada.
+Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y se pueden hacer de 2 formas, Lista no ordenada y Lista ordenada. 
+
+#Estructura :
+
+Para las listas la estructura va acompañada de este elemento `<li>` para adicionar los [[Elementos]] dentro de la lista.
 
    - ## Lista no ordenada:
-	Se usan para enlistar [[Elementos]] que no requieren una jerarquía como por decir productos 
+	Se usan para enlistar [[Elementos]] que no requieren una jerarquía como por ejemplo una lista de productos para hacer el mercado.
+	
+

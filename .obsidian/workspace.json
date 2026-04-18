@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Estructura",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,6 +202,8 @@
   },
   "active": "aee68aa2f05959ee",
   "lastOpenFiles": [
+    "02-fundamentos/01-html/HTML.md",
+    "02-fundamentos/01-html/Elementos.md",
     "03-proyectos/Heading Elements.md",
     "03-proyectos/Movie Ranking Project 01.md",
     "03-proyectos/Paragraph Elements.md",
@@ -208,8 +211,6 @@
     "00-sistema/Dashboard.md",
     "00-sistema/Índice de programación.md",
     "03-proyectos/Movie Raking Project.md",
-    "02-fundamentos/01-html/Elementos.md",
-    "02-fundamentos/01-html/HTML.md",
     "02-fundamentos/02-css/Bootstrap.md",
     "assets/html/Pasted image 20260414191401.png",
     "02-fundamentos/02-css/CSS.md",
