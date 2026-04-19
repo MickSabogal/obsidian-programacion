@@ -92,8 +92,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aee68aa2f05959ee",
+  "active": "8d432160bea68118",
   "lastOpenFiles": [
     "02-fundamentos/01-html/HTML.md",
     "03-proyectos/Paragraph Elements.md",
