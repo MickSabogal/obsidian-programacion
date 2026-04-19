@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-proyectos/List Elements.md",
+                "file": "03-proyectos/Movie Ranking Project 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List Elements"
+              "title": "Movie Ranking Project 01"
             }
           }
         ]
@@ -201,13 +201,13 @@
   },
   "active": "aee68aa2f05959ee",
   "lastOpenFiles": [
-    "03-proyectos/Heading Elements.md",
+    "03-proyectos/Paragraph Elements.md",
     "03-proyectos/List Elements.md",
+    "03-proyectos/Heading Elements.md",
     "03-proyectos/Movie Ranking Project 01.md",
     "00-sistema/Dashboard.md",
     "02-fundamentos/01-html/Elementos.md",
     "02-fundamentos/01-html/HTML.md",
-    "03-proyectos/Paragraph Elements.md",
     "01-recursos/Atajos.md",
     "assets/html/proyectos/Pasted image 20260416170119.png",
     "00-sistema/Índice de programación.md",
