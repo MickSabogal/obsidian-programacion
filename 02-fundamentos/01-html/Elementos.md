@@ -94,9 +94,11 @@ Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y 
 #Estructura : Para las listas la estructura va acompañada de este elemento `<li>` para adicionar los [[Elementos]] dentro de la lista.
 
  - ### Lista no ordenada: 
+	 
 	 Se usan para enlistar [[Elementos]] que no requieren una jerarquía como por ejemplo una lista de productos para hacer el mercado. 
 	 
-	 #Estructura
+	 #Estructura:
+	 
 ```
 	 <ul>
 		 <li>Leche</li>
@@ -106,3 +108,18 @@ Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y 
 ```
 
 - ### Lista ordenada
+	
+	Se usan para enlistar [[Elementos]] en un orden determinado. Usado en listas como rankings o instrucciones.
+	 
+	#Estructura :
+	
+```
+	 <ol>
+		 <li>Leche</li>
+		 <li>Pan</li>
+		 <li>Huevos</li>
+	 </ol>
+```
+
+## Ejercicio desarrollado
+

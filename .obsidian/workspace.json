@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-fundamentos/01-html/Elementos.md",
+                "file": "03-proyectos/List Elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elementos"
+              "title": "List Elements"
             }
           }
         ]
@@ -199,23 +199,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d432160bea68118",
+  "active": "aee68aa2f05959ee",
   "lastOpenFiles": [
+    "03-proyectos/Heading Elements.md",
+    "03-proyectos/List Elements.md",
+    "03-proyectos/Movie Ranking Project 01.md",
+    "00-sistema/Dashboard.md",
+    "02-fundamentos/01-html/Elementos.md",
     "02-fundamentos/01-html/HTML.md",
     "03-proyectos/Paragraph Elements.md",
-    "03-proyectos/Heading Elements.md",
-    "02-fundamentos/01-html/Elementos.md",
     "01-recursos/Atajos.md",
-    "03-proyectos/Movie Ranking Project 01.md",
-    "assets/proyectos/Pasted image 20260416170119.png",
-    "00-sistema/Dashboard.md",
+    "assets/html/proyectos/Pasted image 20260416170119.png",
     "00-sistema/Índice de programación.md",
     "03-proyectos/Movie Raking Project.md",
     "02-fundamentos/02-css/Bootstrap.md",
     "assets/html/Pasted image 20260414191401.png",
     "02-fundamentos/02-css/CSS.md",
-    "assets/proyectos/Pasted image 20260414185526.png",
-    "assets/proyectos",
+    "assets/html/proyectos/Pasted image 20260414185526.png",
+    "assets/html/proyectos",
     "02-fundamentos/02-css/Grid.md",
     "02-fundamentos/02-css/Flexbox.md",
     "03-proyectos",
