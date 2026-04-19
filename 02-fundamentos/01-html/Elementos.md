@@ -97,4 +97,12 @@ Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y 
 	 Se usan para enlistar [[Elementos]] que no requieren una jerarquía como por ejemplo una lista de productos para hacer el mercado. 
 	 
 	 #Estructura
-	 
+```
+	 <ul>
+		 <li>Leche</li>
+		 <li>Pan</li>
+		 <li>Huevos</li>
+	 </ul>
+```
+
+- ### Lista ordenada
