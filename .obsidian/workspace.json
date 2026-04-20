@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-fundamentos/01-html/Elementos.md",
+                "file": "02-fundamentos/01-html/HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elementos"
+              "title": "HTML"
             }
           }
         ]
@@ -199,16 +199,18 @@
   },
   "active": "aee68aa2f05959ee",
   "lastOpenFiles": [
+    "02-fundamentos/01-html/HTML.md",
+    "03-proyectos/html/Nesting and indentation.md",
     "02-fundamentos/01-html/Elementos.md",
+    "03-proyectos/html",
     "assets/html/Pasted image 20260420213910.png",
     "00-sistema/Índice de programación.md",
-    "03-proyectos/List Elements.md",
-    "03-proyectos/Movie Ranking Project 01.md",
-    "03-proyectos/Paragraph Elements.md",
-    "03-proyectos/Heading Elements.md",
+    "03-proyectos/html/List Elements.md",
+    "03-proyectos/html/Movie Ranking Project 01.md",
+    "03-proyectos/html/Paragraph Elements.md",
+    "03-proyectos/html/Heading Elements.md",
     "assets/html/proyectos/Pasted image 20260419232847.png",
     "00-sistema/Dashboard.md",
-    "02-fundamentos/01-html/HTML.md",
     "01-recursos/Atajos.md",
     "assets/html/proyectos/Pasted image 20260416170119.png",
     "03-proyectos/Movie Raking Project.md",
@@ -238,7 +240,6 @@
     "CSS.md",
     "01-Frontend/CSS.md",
     "Indice de programación.md",
-    "02-fundamentos/01-html",
     "Programación/Elementos.md",
     "01-Frontend/Sin título.md",
     "Programación/FrontEnd.md"

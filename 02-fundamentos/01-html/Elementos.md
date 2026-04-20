@@ -136,3 +136,5 @@ Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y 
 ![[Pasted image 20260420213910.png]]
 
 ### Ejercicio desarrollado
+
+[[Nesting and indentation]]
