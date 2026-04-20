@@ -127,4 +127,12 @@ Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y 
 
 ## Anidación y Sangría (Nesting & indentation):
 
-Son propiedades que se pueden usarse como si se hablara de la gramática para los elementos de lista. Permiten tanto para el programador como para el navegador entender mejor el código cuando hay una lista compleja que combina tanto [[Elementos]] de lista ordenada y no ordenada. 
+- **Anidación**:
+	Es colocar una lista dentro de otra lista (dentro de un `<li>`) para crear niveles o jerarquías.
+
+- **Sangría (indentación):**  
+	Es la forma de organizar el código con espacios o tabulaciones para que sea más fácil de leer, aunque no cambia el resultado en la página.
+
+![[Pasted image 20260420213910.png]]
+
+### Ejercicio desarrollado
