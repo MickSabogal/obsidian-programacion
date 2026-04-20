@@ -124,3 +124,7 @@ Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y 
 ## Ejercicio desarrollado
 
 ## [[List Elements]]
+
+## Anidación y Sangría (Nesting & indentation):
+
+Son propiedades que se pueden usarse como si se hablara de la gramática para los elementos de lista. Permiten tanto para el programador como para el navegador entender mejor el código cuando hay una lista compleja que combina tanto [[Elementos]] de lista ordenada y no ordenada. 
