@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-fundamentos/01-html/HTML.md",
+                "file": "02-fundamentos/01-html/Elementos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML"
+              "title": "Elementos"
             }
           }
         ]
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Estructura",
+                "query": "tag:#Recomendaciones",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,18 +198,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aee68aa2f05959ee",
+  "active": "a9f828babf891d5f",
   "lastOpenFiles": [
+    "00-sistema/Índice de programación.md",
+    "02-fundamentos/01-html/Elementos.md",
     "02-fundamentos/01-html/HTML.md",
     "03-proyectos/html/Nesting and indentation.md",
-    "02-fundamentos/01-html/Elementos.md",
+    "03-proyectos/html/Movie Ranking Project 01.md",
+    "03-proyectos/html/List Elements.md",
+    "03-proyectos/html/Heading Elements.md",
     "03-proyectos/html",
     "assets/html/Pasted image 20260420213910.png",
-    "00-sistema/Índice de programación.md",
-    "03-proyectos/html/List Elements.md",
-    "03-proyectos/html/Movie Ranking Project 01.md",
     "03-proyectos/html/Paragraph Elements.md",
-    "03-proyectos/html/Heading Elements.md",
     "assets/html/proyectos/Pasted image 20260419232847.png",
     "00-sistema/Dashboard.md",
     "01-recursos/Atajos.md",

@@ -22,4 +22,6 @@ Recordamos que los #tags se componen de:
 - **Tag de apertura:** `< >`
 - **Tag de cierre:** `</>`
 - **Excepción**: `<img src="">` aquí los [[Elementos]] son la fuente ( `src=""` ) ya que ese sería el contenido.
+
+---
 ## [[Elementos]]

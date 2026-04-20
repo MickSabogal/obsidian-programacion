@@ -17,9 +17,10 @@ Representan la jerarquía de los títulos en una página web y van desde `<h1>` 
 
 ![[Pasted image 20260414015201.png]]
 
+>[!TIP]
 #Recomendaciones:
-- No usar más de una vez `<h1>`, ya que es el título principal de la página web.
-- No saltar la jerarquía (por ejemplo, de `<h1>` a `<h3>` sin usar `<h2>`).
+>- No usar más de una vez `<h1>`, ya que es el título principal de la página web.
+>- No saltar la jerarquía (por ejemplo, de `<h1>` a `<h3>` sin usar `<h2>`).
 
 ## Ejercicio desarrollado
 
@@ -123,7 +124,7 @@ Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y 
 
 ## Ejercicio desarrollado
 
-## [[List Elements]]
+### [[List Elements]]
 
 ## Anidación y Sangría (Nesting & indentation):
 
@@ -137,4 +138,4 @@ Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y 
 
 ### Ejercicio desarrollado
 
-[[Nesting and indentation]]
+### [[Nesting and indentation]]
