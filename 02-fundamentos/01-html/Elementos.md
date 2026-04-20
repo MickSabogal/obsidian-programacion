@@ -34,7 +34,7 @@ Representan la jerarquía de los títulos en una página web y van desde `<h1>` 
 
 #Estructura:
 
-`<p>Soy un párrafo</p>`
+	`<p>Soy un párrafo</p>`
 
 ![[Pasted image 20260414191401.png]]
 
@@ -84,7 +84,11 @@ And Eternity in an hour.<br />
 </p>
 ```
 
-- #Recomendaciones: - No usar el `<br />` para separar párrafos cuando no es necesario, y que esto hace que los lectores de pantalla para ciegos entren en conflicto y pierdan el sentido del contenido. Es mejor crear varios [[Elementos]] `<p>` - Tanto para el `<br />` y el `<hr />` se recomienda tener siempre el `/` para ayudar visualmente al cerebro de que es un elemento nulo.
+> [!TIP]
+> #Recomendaciones: 
+> 	- No usar el `<br />` para separar párrafos cuando no es necesario, y que esto hace que los lectores de pantalla para ciegos entren en conflicto y pierdan el sentido del contenido. Es mejor crear varios [[Elementos]] `<p>`
+> 	
+> 	- Tanto para el `<br />` y el `<hr />` se recomienda tener siempre el `/` para ayudar visualmente al cerebro de que es un elemento nulo.
 
 ---
 
