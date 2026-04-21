@@ -1,4 +1,5 @@
 # 🧭 Índice de programación
+
 - [[Índice de programación]]
 
 # Fundamentos
@@ -54,7 +55,7 @@ sort file.name asc
 
 ```dataview  
 list
-from "03-proyectos"  
+from "03-ejercicios"  
 where status = "en_progreso" 
 ```
 
@@ -64,7 +65,6 @@ where status = "en_progreso"
 TABLE  
 tipo as "Tipo",
 progreso + "%" as "Avance"     
-FROM "03-proyectos" 
-WHERE status = "completado"  
-SORT date 
+FROM "03-Ejercicios" 
+WHERE status = "completado"
 ```

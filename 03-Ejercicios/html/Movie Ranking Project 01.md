@@ -15,7 +15,7 @@ Utilizar todo lo aprendido para crear un nuevo proyecto donde se muestre un rank
 ---
 # Tecnologías:
 
-- ## HTML
+- ## [[HTML]]
 
 ---
 # Ejercicio: 

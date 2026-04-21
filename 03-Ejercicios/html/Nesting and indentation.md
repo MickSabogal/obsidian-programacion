@@ -16,7 +16,7 @@ Entender el uso de anidación y sangría para las listas con [[Elementos]] orden
 ---
 # Tecnologías:
 
-- ## HTML
+- ## [[HTML]]
 
 ---
 # Ejercicio:

@@ -15,7 +15,7 @@ Aprender a diferenciar los tipos de [[Elementos]] de encabezado.
 ---
 # Tecnologías: 
 
-- ## HTML
+- ## [[HTML]]
 
 ---
 # Ejercicio: 
@@ -55,3 +55,5 @@ Book
 
     <h3>Section 2</h3>
 ```
+
+[^1]: 

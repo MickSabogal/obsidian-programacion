@@ -15,7 +15,7 @@ Entender el uso de los [[Elementos]] de lista creado una receta, además usando 
 ---
 # Tecnologías: 
 
-- ## HTML
+- ## [[HTML]]
 
 ---
 # Ejercicio: 
