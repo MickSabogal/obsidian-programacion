@@ -15,5 +15,5 @@ Aprender el uso de [[Elementos]] de parágrafo separando un texto en 3 párrafos
 
 # Tecnologías:
 
-- ## HTML
+- ## [[HTML]]
 - 
