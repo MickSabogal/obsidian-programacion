@@ -12,10 +12,12 @@ Aprender a diferenciar los tipos de [[Elementos]] de encabezado.
 
 ![[Pasted image 20260414185526.png]]
 
+---
 # Tecnologías: 
 
 - ## HTML
 
+---
 # Ejercicio: 
 
 Book
@@ -29,6 +31,7 @@ Book
 		Section 1
 		Section 2
 
+---
 # Solución
 
 ```

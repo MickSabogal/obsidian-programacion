@@ -12,6 +12,10 @@ Entender el uso de los [[Elementos]] de lista creado una receta, además usando 
 
 ![[Pasted image 20260419232847.png]]
 
+---
 # Tecnologías: 
 
 - ## HTML
+
+---
+# Ejer
