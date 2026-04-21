@@ -26,25 +26,14 @@ Entender el uso de los [[Elementos]] de lista creado una receta, además usando 
 
 #### For the dough:
 
-<ul>
+¾ cup warm milk
+2 ¼ teaspoons yeast
+¼ cup granulated sugar
+1 egg plus 1 egg yolk
+¼ cup butter
+3 cups bread flour
 
-    <li>¾ cup warm milk</li>
-
-    <li>2 ¼ teaspoons yeast</li>
-
-    <li>¼ cup granulated sugar</li>
-
-    <li>1 egg plus 1 egg yolk</li>
-
-    <li>¼ cup butter</li>
-
-    <li>3 cups bread flour</li>
-
-</ul>
-
-  
-
-<h3>For the filling:</h3>
+#### For the filling:
 
 <ul>    
 
