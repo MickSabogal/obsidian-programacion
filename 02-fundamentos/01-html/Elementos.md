@@ -5,7 +5,7 @@ status: en_progreso
 - ### [[Dashboard]]
 - ### [[Atajos]]
 
-# Fundamentos
+# #Fundamentos
 
 ## Elementos de encabezado
 
@@ -27,7 +27,6 @@ Representan la jerarquía de los títulos en una página web y van desde `<h1>` 
 ### [[Heading Elements]]
 
 ---
-
 ## Elemento de párrafo
 
 - Al igual que los [[Elementos]] de encabezado, tiene etiquetas de apertura y cierre. Se utiliza para indicar al navegador que muestre el contenido como un párrafo. Esto es importante semánticamente, especialmente para usuarios que utilizan lectores de pantalla, ya que ayuda a entender el flujo del contenido.
@@ -53,7 +52,6 @@ And Eternity in an hour.<br />
 ### [[Paragraph Elements]]
 
 ---
-
 ## Elementos nulos
 
 Existen [[Elementos]] como `<img>` que son una excepción, ya que no contienen contenido interno. Otros [[Elementos]] donde está prohibido colocar contenido son `<hr />` y `<br />`.
@@ -86,12 +84,11 @@ And Eternity in an hour.<br />
 
 > [!TIP]
 > #Recomendaciones: 
-> 	- No usar el `<br />` para separar párrafos cuando no es necesario, y que esto hace que los lectores de pantalla para ciegos entren en conflicto y pierdan el sentido del contenido. Es mejor crear varios [[Elementos]] `<p>`
-> 	
-> 	- Tanto para el `<br />` y el `<hr />` se recomienda tener siempre el `/` para ayudar visualmente al cerebro de que es un elemento nulo.
+> - No usar el `<br />` para separar párrafos cuando no es necesario, y que esto hace que los lectores de pantalla para ciegos entren en conflicto y pierdan el sentido del contenido. Es mejor crear varios [[Elementos]] `<p>`
+> 
+> - Tanto para el `<br />` y el `<hr />` se recomienda tener siempre el `/` para ayudar visualmente al cerebro de que es un elemento nulo.
 
 ---
-
 ## Elementos de lista
 
 Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y se pueden hacer de 2 formas, Lista no ordenada y Lista ordenada.
@@ -143,3 +140,24 @@ Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y 
 ### Ejercicio desarrollado
 
 ### [[Nesting and indentation]]
+
+---
+
+## Elementos de ancla (Anchor Elements)
+
+Este es uno de los [[Elementos]] que presenta excepciones, ya que el contenido dentro de los #tags de ancla permite crear hypervínculo que redireccionan a otros documentos o a distintas secciones dentro de una página web.
+
+#Estructura:
+
+`<tag atributo=valor>Contenido</tag>`
+
+#Ejemplo:
+
+`<a href="http://www.google.com">Esto es un link</a>`
+
+>[!IMPORTANT]
+>- `href:` Es la referencia de la URL del hipervínculo que va a redireccionar el elemento `<a>` cuando se clickea sobre él. 
+>- Existen también diferentes atributos como `draggable` que permite que al seleccionar un elemento y arrastrarlo, este se mueva. En este caso el valor no sería un URL de una página web sino `True` o `False`.
+>- Los atributos y valores para `<a>` pueden variar dependiendo de qué se quiera anclar.
+
+
