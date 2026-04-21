@@ -142,7 +142,6 @@ Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y 
 #### [[Nesting and indentation]]
 
 ---
-
 ## Elementos de ancla (Anchor Elements)
 
 Este es uno de los [[Elementos]] que presenta excepciones, ya que el contenido dentro de los #tags de ancla permite crear hypervínculo que redireccionan a otros documentos o a distintas secciones dentro de una página web.
@@ -162,4 +161,8 @@ Este es uno de los [[Elementos]] que presenta excepciones, ya que el contenido d
 
 ### Ejercicio desarrollado
 
-[[Anchor Element]]
+#### [[Anchor Element]]
+
+---
+## Elementos de imagen:
+
