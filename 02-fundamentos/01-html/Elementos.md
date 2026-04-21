@@ -22,9 +22,9 @@ Representan la jerarquía de los títulos en una página web y van desde `<h1>` 
 >- No usar más de una vez `<h1>`, ya que es el título principal de la página web.
 >- No saltar la jerarquía (por ejemplo, de `<h1>` a `<h3>` sin usar `<h2>`).
 
-## Ejercicio desarrollado
+### Ejercicio desarrollado
 
-### [[Heading Elements]]
+#### [[Heading Elements]]
 
 ---
 ## Elemento de párrafo
@@ -47,9 +47,9 @@ And Eternity in an hour.<br />
 ```
 
 
-## Ejercicio desarrollado
+### Ejercicio desarrollado
 
-### [[Paragraph Elements]]
+#### [[Paragraph Elements]]
 
 ---
 ## Elementos nulos
@@ -123,9 +123,9 @@ Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y 
 	 </ol>
 ```
 
-## Ejercicio desarrollado
+### Ejercicio desarrollado
 
-### [[List Elements]]
+#### [[List Elements]]
 
 ## Anidación y Sangría (Nesting & indentation):
 
@@ -139,7 +139,7 @@ Como su nombre lo indica, estos elementos se usan para enlistar [[Elementos]] y 
 
 ### Ejercicio desarrollado
 
-### [[Nesting and indentation]]
+#### [[Nesting and indentation]]
 
 ---
 
@@ -160,4 +160,6 @@ Este es uno de los [[Elementos]] que presenta excepciones, ya que el contenido d
 >- Existen también diferentes atributos como `draggable` que permite que al seleccionar un elemento y arrastrarlo, este se mueva. En este caso el valor no sería un URL de una página web sino `True` o `False`.
 >- Los atributos y valores para `<a>` pueden variar dependiendo de qué se quiera anclar.
 
+### Ejercicio desarrollado
 
+[[Anchor Element]]
