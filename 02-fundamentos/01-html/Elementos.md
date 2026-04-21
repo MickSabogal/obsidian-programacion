@@ -30,7 +30,7 @@ Representan la jerarquía de los títulos en una página web y van desde `<h1>` 
 
 ## Elemento de párrafo
 
-- Al igual que los #Elementos de encabezado, tiene etiquetas de apertura y cierre. Se utiliza para indicar al navegador que muestre el contenido como un párrafo. Esto es importante semánticamente, especialmente para usuarios que utilizan lectores de pantalla, ya que ayuda a entender el flujo del contenido.
+- Al igual que los [[Elementos]] de encabezado, tiene etiquetas de apertura y cierre. Se utiliza para indicar al navegador que muestre el contenido como un párrafo. Esto es importante semánticamente, especialmente para usuarios que utilizan lectores de pantalla, ya que ayuda a entender el flujo del contenido.
 
 #Estructura:
 
@@ -56,7 +56,7 @@ And Eternity in an hour.<br />
 
 ## Elementos nulos
 
-Existen #Elementos como `<img>` que son una excepción, ya que no contienen contenido interno. Otros #Elementos donde está prohibido colocar contenido son `<hr />` y `<br />`.
+Existen [[Elementos]] como `<img>` que son una excepción, ya que no contienen contenido interno. Otros [[Elementos]] donde está prohibido colocar contenido son `<hr />` y `<br />`.
 
 - ### `<hr />` : Línea horizontal
 
