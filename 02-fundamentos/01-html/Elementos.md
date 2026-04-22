@@ -166,3 +166,10 @@ Este es uno de los [[Elementos]] que presenta excepciones, ya que el contenido d
 ---
 ## Elementos de imagen:
 
+Es el tag para poder adicionar imágenes dentro de la página web. Este es otro de los [[Elementos]] que tienen excepciones en su estructura, tiene una estructura similar a la de los [[Elementos]] de ancla. Su estructura tiene un atributo `src` que es la fuente de donde se renderizará la imagen. Muchas veces para ayuda a los lectores para ciegos, casi siempre se agrega además el atributo `alt=""` que sirve para colocar una pequeña descripción de lo que es la foto, en caso de que falle el renderizado. 
+
+#Estructura :
+
+`<img src="url"/>`
+
+### Ejercicio desarrollado
