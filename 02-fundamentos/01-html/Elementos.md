@@ -1,5 +1,5 @@
 ---
-status: en_progreso
+status: completado
 ---
 - ### [[Índice de programación]]
 - ### [[Dashboard]]

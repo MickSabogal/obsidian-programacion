@@ -12,6 +12,7 @@ from "02-fundamentos"
 where status = "en_progreso"  
 sort file.name asc
 ```
+---
 ## 🚀 Proximamente:
 
 - [ ] [[CSS]]
@@ -31,6 +32,7 @@ sort file.name asc
 - [ ] [[React]]
 - [ ] [[Web 3.0]]
 
+---
 ## ✅Completado:
 
 ```dataview
@@ -39,7 +41,7 @@ from "02-fundamentos"
 where status = "completado"  
 sort file.name asc
 ```
-
+---
 # Hoy:
 
 ```dataview  
@@ -48,8 +50,8 @@ from "02-fundamentos"
 where status = "en_progreso"  
 sort file.name asc
 ```
-
-# Proyectos
+---
+# Ejercicios:
 
 ## 🎯 En progreso:
 
@@ -58,7 +60,6 @@ list
 from "03-ejercicios"  
 where status = "en_progreso" 
 ```
-
 ## ✅Completado:
 
 ```dataview  
@@ -68,3 +69,8 @@ progreso + "%" as "Avance"
 FROM "03-Ejercicios" 
 WHERE status = "completado"
 ```
+---
+# Proyectos:
+
+## 🎯 En progreso:
+
