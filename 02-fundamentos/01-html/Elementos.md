@@ -173,3 +173,7 @@ Es el tag para poder adicionar imágenes dentro de la página web. Este es otro 
 `<img src="url"/>`
 
 ### Ejercicio desarrollado
+
+#### [[Image Elements]]
+
+---
