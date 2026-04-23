@@ -74,3 +74,19 @@ WHERE status = "completado"
 
 ## 🎯 En progreso:
 
+```dataview  
+list
+from "04-Proyectos"  
+where status = "en_progreso" 
+```
+
+## ✅Completado:
+
+```dataview  
+TABLE  
+tipo as "Tipo",
+progreso + "%" as "Avance"     
+FROM "04-Proyectos" 
+WHERE status = "completado"
+```
+---

@@ -6,6 +6,7 @@
       {
         "id": "e8d767740a055e65",
         "type": "tabs",
+        "dimension": 58.79765395894429,
         "children": [
           {
             "id": "a9f828babf891d5f",
@@ -26,6 +27,7 @@
       {
         "id": "f2ea60cf199d6dec",
         "type": "tabs",
+        "dimension": 41.20234604105572,
         "children": [
           {
             "id": "aee68aa2f05959ee",
@@ -199,11 +201,12 @@
   },
   "active": "a9f828babf891d5f",
   "lastOpenFiles": [
-    "04-Proyectos/html",
-    "04-Proyectos",
+    "00-sistema/Índice de programación.md",
+    "04-Proyectos/html/Birthday Invitation.md",
     "02-fundamentos/01-html/Elementos.md",
     "00-sistema/Dashboard.md",
-    "00-sistema/Índice de programación.md",
+    "04-Proyectos/html",
+    "04-Proyectos",
     "02-fundamentos/01-html/HTML.md",
     "03-Ejercicios/html/Image Elements.md",
     "03-Ejercicios/html/Heading Elements.md",
@@ -239,7 +242,6 @@
     "assets/html",
     "Assets/Sin título.md",
     "Sin nombre/Sin nombre",
-    "assets",
     "Elementos de encabezado.md",
     "gi.md",
     "CSS.md",
