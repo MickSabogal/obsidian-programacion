@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-sistema/Dashboard.md",
+                "file": "04-Proyectos/html/Birthday Invitation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "Birthday Invitation"
             }
           }
         ]
@@ -201,10 +201,11 @@
   },
   "active": "a9f828babf891d5f",
   "lastOpenFiles": [
-    "00-sistema/Índice de programación.md",
+    "03-Ejercicios/html/Anchor Element.md",
     "04-Proyectos/html/Birthday Invitation.md",
-    "02-fundamentos/01-html/Elementos.md",
     "00-sistema/Dashboard.md",
+    "00-sistema/Índice de programación.md",
+    "02-fundamentos/01-html/Elementos.md",
     "04-Proyectos/html",
     "04-Proyectos",
     "02-fundamentos/01-html/HTML.md",
@@ -212,7 +213,6 @@
     "03-Ejercicios/html/Heading Elements.md",
     "assets/html/ejercicios/Pasted image 20260422192104.png",
     "assets/html/ejercicios/Pasted image 20260422192003.png",
-    "03-Ejercicios/html/Anchor Element.md",
     "assets/html/ejercicios/Pasted image 20260421234210.png",
     "03-Ejercicios/html/Paragraph Elements.md",
     "03-Ejercicios/html/Nesting and indentation.md",
