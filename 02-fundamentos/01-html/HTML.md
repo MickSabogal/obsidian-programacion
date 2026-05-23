@@ -25,3 +25,13 @@ Recordamos que los #tags se componen de:
 
 ---
 ## [[Elementos]]
+
+---
+## #RutasDeArchivo
+
+Las rutas de archivo son como una ubicación única para el archivo o carpeta dentro del ordenador, entonces lo que se hace con la maquina es básicamente lo mismo que se hace con una persona al darle una instrucción para que encuentre un lugar en especifico.
+
+Existen dos tipos de ruta:
+
+- ### #Absoluta:
+	- Puede ser la más senciilla
