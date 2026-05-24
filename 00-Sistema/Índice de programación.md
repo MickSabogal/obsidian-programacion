@@ -24,6 +24,7 @@
 	- [[ProgreSQL]]
 - # R
 	- [[React]]
+	- [[Rutas del Archivo]]
 - # S
 	- [[SQL]]
 - # W
