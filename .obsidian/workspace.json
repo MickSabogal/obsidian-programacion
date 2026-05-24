@@ -9,35 +9,20 @@
         "dimension": 58.79765395894428,
         "children": [
           {
-            "id": "a9f828babf891d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Proyectos/html/Birthday Invitation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Birthday Invitation"
-            }
-          },
-          {
             "id": "e4a89b1cfa5837cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-sistema/Dashboard.md",
+                "file": "02-fundamentos/01-html/HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "HTML"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f2ea60cf199d6dec",
@@ -216,6 +201,7 @@
   },
   "active": "e4a89b1cfa5837cd",
   "lastOpenFiles": [
+    "00-sistema/Dashboard.md",
     "04-Proyectos/html/Birthday Invitation.md",
     "03-Ejercicios/html/Paragraph Elements.md",
     "03-Ejercicios/html/Nesting and indentation.md",
@@ -234,7 +220,6 @@
     "03-Ejercicios/html/List Elements.md",
     "03-Ejercicios/html/Anchor Element.md",
     "03-Ejercicios/html/Movie Ranking Project 01.md",
-    "00-sistema/Dashboard.md",
     "00-sistema/Índice de programación.md",
     "04-Proyectos/html",
     "04-Proyectos",

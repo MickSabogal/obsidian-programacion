@@ -42,14 +42,14 @@ Existen dos tipos de ruta:
 	- Para poder navegar de una manera más rápida y simplificadamente se utilizan los siguientes caracteres.
 	  - `..`: significa **Subir una carpeta**. Básicamente es salir de la carpeta donde te encuentras y al añadir `/` entras en la otra que buscas.
 	  - Ejemplo:
-	  - 
-	    ```
-		project/  
-		│  
-		├── index.html  
-		├── css/  
-		│ └── style.css  
-		└── images/  
-		└── logo.png 
-		```
-
+		  -``` project/
+			│
+			├── index.html
+			├── css/
+			│   └── style.css
+			└── images/
+		    └── logo.png```
+	- En este caso, si nos encontramos en `stylel.css` y quieres acceder a `images/logo.png` se haría de la siguiente manera:
+			-`../images/logo.png`
+		- Salimos de `css` y luego se añade el lugar donde queremos ir, en este caso `images/logo.png`
+	
