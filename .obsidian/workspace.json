@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-fundamentos/01-html/HTML.md",
+                "file": "00-sistema/Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML"
+              "title": "Dashboard"
             }
           }
         ],
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Trayectorias",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,8 +107,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,20 +214,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "636f09e0a6f2174b",
+  "active": "e4a89b1cfa5837cd",
   "lastOpenFiles": [
+    "04-Proyectos/html/Birthday Invitation.md",
+    "03-Ejercicios/html/Paragraph Elements.md",
+    "03-Ejercicios/html/Nesting and indentation.md",
     "02-fundamentos/01-html/Elementos.md",
+    "02-fundamentos/01-html/HTML.md",
     "assets/html/fundamentos/Pasted image 20260420213910.png",
     "assets/html/fundamentos/Pasted image 20260414015201.png",
     "assets/html/fundamentos/Pasted image 20260414191401.png",
-    "02-fundamentos/01-html/HTML.md",
-    "04-Proyectos/html/Birthday Invitation.md",
     "assets/html/fundamentos",
     "Sin nombre",
     "assets/html/proyectos",
     "assets/html/ejercicios/Sin nombre",
     "assets/html/proyectos/Pasted image 20260523220814.png",
-    "03-Ejercicios/html/Paragraph Elements.md",
     "assets/html/ejercicios/Pasted image 20260416170119.png",
     "assets/html/ejercicios/Pasted image 20260414185526.png",
     "03-Ejercicios/html/List Elements.md",
@@ -243,7 +243,6 @@
     "assets/html/ejercicios/Pasted image 20260422192104.png",
     "assets/html/ejercicios/Pasted image 20260422192003.png",
     "assets/html/ejercicios/Pasted image 20260421234210.png",
-    "03-Ejercicios/html/Nesting and indentation.md",
     "assets/html/ejercicios/Pasted image 20260421195933.png",
     "03-Ejercicios/html",
     "01-recursos/Atajos.md",

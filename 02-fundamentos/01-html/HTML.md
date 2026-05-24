@@ -34,4 +34,22 @@ Las rutas de archivo son como una ubicación única para el archivo o carpeta de
 Existen dos tipos de ruta:
 
 - ### #Absoluta:
-	- Puede ser la más senciilla
+	- Puede ser la más sencilla, puesto que esta es la dirección completa de un archivo por lo cual siempre inicia desde la raíz.
+	-  `C:\Users\Juan\Documents\foto.png`
+- ### #Relativa:
+	- Para el desarrollo web, esta es más usada porque es una ubicación basada en la ubicación actual. En programación se busca relativo al archivo o a la carpeta actual.
+	- Una de las ventajas es que no importa si se mueven las carpetas, siempre serán válidas.
+	- Para poder navegar de una manera más rápida y simplificadamente se utilizan los siguientes caracteres.
+	  - `..`: significa **Subir una carpeta**. Básicamente es salir de la carpeta donde te encuentras y al añadir `/` entras en la otra que buscas.
+	  - Ejemplo:
+	  - 
+	    ```
+		project/  
+		│  
+		├── index.html  
+		├── css/  
+		│ └── style.css  
+		└── images/  
+		└── logo.png 
+		```
+
