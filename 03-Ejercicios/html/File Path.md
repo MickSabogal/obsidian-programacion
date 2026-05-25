@@ -9,5 +9,5 @@ progreso: "100"
 
 # 🎯Objetivo:
 
-Basado en la siguiente esctrcutura
+Basado en la siguiente estructura hay que intentar hacer la siguiente pagina web, usando las [[Rutas del Archivo]]
 ![[Pasted image 20260525192232.png]]
