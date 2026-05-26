@@ -22,6 +22,12 @@ Recordamos que los #tags se componen de:
 - **Tag de apertura:** `< >`
 - **Tag de cierre:** `</>`
 - **Excepción**: `<img src="">` aquí los [[Elementos]] son la fuente ( `src=""` ) ya que ese sería el contenido.
+
+---
+## [[Elementos]]
+## [[Rutas del Archivo]]
+
+---
 # Estructura (Boilerplate):
 
 Al igual que las cartas o a diferentes documentos, los archivos HTML para la creación de página tienen una estructura principal y es la siguiente:
@@ -41,9 +47,5 @@ Al igual que las cartas o a diferentes documentos, los archivos HTML para la cre
 </html>
 ```
 
+Vamos a desglosar y definir cada linea:
 
----
-## [[Elementos]]
-## [[Rutas del Archivo]]
-
----
