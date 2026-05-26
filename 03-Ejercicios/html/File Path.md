@@ -25,3 +25,28 @@ Basado en la siguiente estructura hay que intentar hacer la siguiente pagina web
 ![[Pasted image 20260526163800.png]]
 
 --- 
+# Solución:
+
+```
+<h1>All the Animals</h1>
+
+<h2>Rabbit:</h2>
+
+<img src="./rabbit.png" alt="Rabbit">
+
+<h2>Cat:</h2>
+
+<img src="./Folder3/cat.png" alt="Cat">
+
+<h2>Dog:</h2>
+
+<img src="../dog.png" alt="Dog">
+
+<h2>Fish:</h2>
+
+<img src="../Folder1/fish.png" alt="Fish">
+
+<h2>Bird:</h2>
+
+<img src="../Folder1/Folder2/bird.png" alt="Bird">
+```

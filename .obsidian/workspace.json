@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bde9a487c5b1d632",
+            "id": "fd9088cf401855e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "ab97b16a793f454e",
+        "id": "84d1afa14ad76bd9",
         "type": "tabs",
         "children": [
           {
-            "id": "e4a89b1cfa5837cd",
+            "id": "bde9a487c5b1d632",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -197,17 +197,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bde9a487c5b1d632",
+  "active": "fd9088cf401855e4",
   "lastOpenFiles": [
-    "03-Ejercicios/html/Anchor Element.md",
+    "03-Ejercicios/html/Image Elements.md",
+    "02-fundamentos/01-html/Rutas del Archivo.md",
+    "02-fundamentos/01-html/HTML.md",
     "03-Ejercicios/html/File Path.md",
+    "03-Ejercicios/html/Anchor Element.md",
     "assets/html/ejercicios/Pasted image 20260526163800.png",
     "Pasted image 20260526163746.png",
     "assets/html/ejercicios/Pasted image 20260525192232.png",
-    "02-fundamentos/01-html/Rutas del Archivo.md",
     "02-fundamentos/01-html/Elementos.md",
     "00-sistema/Dashboard.md",
-    "02-fundamentos/01-html/HTML.md",
     "00-sistema/Índice de programación.md",
     "04-Proyectos/html/Birthday Invitation.md",
     "03-Ejercicios/html/Paragraph Elements.md",
@@ -226,7 +227,6 @@
     "03-Ejercicios/html/Movie Ranking Project 01.md",
     "04-Proyectos/html",
     "04-Proyectos",
-    "03-Ejercicios/html/Image Elements.md",
     "03-Ejercicios/html/Heading Elements.md",
     "assets/html/ejercicios/Pasted image 20260422192104.png",
     "03-Ejercicios/html",
