@@ -31,12 +31,13 @@ Al igual que las cartas o a diferentes documentos, los archivos HTML para la cre
 <html lang="en">
 
 <head>
-<meta charset="UTF-8">
-<title>My website</title>
-UTF-8
+	<meta charset="UTF-8">
+	<title>My website</title>
 </head>
+
 <body>
 </body>
+
 </html>
 ```
 
