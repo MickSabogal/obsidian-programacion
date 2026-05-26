@@ -11,7 +11,7 @@ status: en_progreso
 Define el cuerpo de una página web. 
 
 Proviene de HyperText Markup Language
--  **HyperText**: Proviene del texto que puede conectarnos con otro documento dentro de una página web, estas piezas de texto son hiper texto o hiper links. 
+- **HyperText**: Proviene del texto que puede conectarnos con otro documento dentro de una página web, estas piezas de texto son hiper texto o hiper links. 
 - **Markup Language**: Proviene de lo que se ve en la revisión de un manuscrito, solo que se usan diferentes marcas ( #tags ) para definir cada elemento a través de la página web.
 
 La estructura de este código se basa en #tags con contenido que forman [[Elementos]]
@@ -22,6 +22,24 @@ Recordamos que los #tags se componen de:
 - **Tag de apertura:** `< >`
 - **Tag de cierre:** `</>`
 - **Excepción**: `<img src="">` aquí los [[Elementos]] son la fuente ( `src=""` ) ya que ese sería el contenido.
+# Estructura (Boilerplate):
+
+Al igual que las cartas o a diferentes documentos, los archivos HTML para la creación de página tienen una estructura principal y es la siguiente:
+
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>My website</title>
+UTF-8
+</head>
+<body>
+</body>
+</html>
+```
+
 
 ---
 ## [[Elementos]]
