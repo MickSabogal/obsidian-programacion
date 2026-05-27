@@ -49,3 +49,6 @@ Al igual que las cartas o a diferentes documentos, los archivos HTML para la cre
 
 Vamos a desglosar y definir cada linea:
 
+`<!DOCTYPE html>`: como lo dice ahí, se le especifica al navegador que tipo de documento es.
+`<html lang="en">`: Es la raíz del archivo, todo el contenido está dentro de este elemento, se añade el tipo de lenguaje en el que está escrito el contenido. En este caso inglés.
+`<head>`:
