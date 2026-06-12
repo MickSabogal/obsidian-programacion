@@ -55,4 +55,5 @@ Vamos a desglosar y definir cada linea:
 
 - `<head>`: Es la parte invisible de la página web, pero que permite que se muestre el contenido de manera correcta pero no incluye texto, ni imagen que pueda ver el usuario. Dentro del head se pueden adicionar diferentes secciones que permiten la configuración de la página web. 
 	- `<meta charset="UTF-8">` : Esta es una etiqueta muy importante dentro del head, indica al navegador cómo interpretar los caracteres de la página para que letras especiales, símbolos y emojis se muestren correctamente. UTF-8 es la codificación estándar utilizada en la web moderna puesto que permite representar todos los caracteres del mundo (letras, símbolos y emojis) usando números que las computadoras pueden entender.
-	- `<title> </title>`: Es el título de la pestaña del navegador
+	- `<title> </title>`: Es el título de la pestaña del navegador.
+	- 
