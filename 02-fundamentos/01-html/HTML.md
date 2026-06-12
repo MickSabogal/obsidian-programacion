@@ -49,6 +49,10 @@ Al igual que las cartas o a diferentes documentos, los archivos HTML para la cre
 
 Vamos a desglosar y definir cada linea:
 
-`<!DOCTYPE html>`: como lo dice ahí, se le especifica al navegador que tipo de documento es.
-`<html lang="en">`: Es la raíz del archivo, todo el contenido está dentro de este elemento, se añade el tipo de lenguaje en el que está escrito el contenido. En este caso inglés.
-`<head>`: Es la parte invisible de la página web, 
+- `<!DOCTYPE html>`: como lo dice ahí, se le especifica al navegador que tipo de documento es. Esto se usa para decirle al navegador que se está usando HTML 5 (La versión más reciente de HTML). La raíz del archivo.
+
+- `<html lang="en">`: Es la raíz del archivo, todo el contenido está dentro de este elemento, se añade el tipo de lenguaje en el que está escrito el contenido. En este caso inglés, esto ayuda también al lector de pantalla para los discapacitados pronunciar bien el texto generando mejor comprensión al usuario.
+
+- `<head>`: Es la parte invisible de la página web, pero que permite que se muestre el contenido de manera correcta pero no incluye texto, ni imagen que pueda ver el usuario. Dentro del head se pueden adicionar diferentes secciones que permiten la configuración de la página web. 
+	- `<meta charset="UTF-8">` : Esta es una etiqueta muy importante dentro del head, indica al navegador cómo interpretar los caracteres de la página para que letras especiales, símbolos y emojis se muestren correctamente. UTF-8 es la codificación estándar utilizada en la web moderna puesto que permite representar todos los caracteres del mundo (letras, símbolos y emojis) usando números que las computadoras pueden entender.
+	- `<title> </title>`: Es el título de la pestaña del navegador
