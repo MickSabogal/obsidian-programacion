@@ -88,6 +88,10 @@ And Eternity in an hour.<br />
 > 
 > - Tanto para el `<br />` y el `<hr />` se recomienda tener siempre el `/` para ayudar visualmente al cerebro de que es un elemento nulo.
 
+### Ejercicio desarrollado
+
+#### [[Void Elements]]
+
 ---
 ## Elementos de lista
 
