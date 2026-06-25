@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-fundamentos/01-html/HTML.md",
+                "file": "02-fundamentos/01-html/Elementos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML"
+              "title": "Elementos"
             }
           }
         ]
@@ -197,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bde9a487c5b1d632",
+  "active": "fd9088cf401855e4",
   "lastOpenFiles": [
     "02-fundamentos/01-html/HTML.md",
     "02-fundamentos/01-html/Elementos.md",
