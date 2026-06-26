@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285.5
   },
   "right": {
     "id": "49ceda38ad54568c",
@@ -201,10 +201,17 @@
   "lastOpenFiles": [
     "03-Ejercicios/html/Void Elements.md",
     "03-Ejercicios/html/Webpages.md",
+    "Pasted image 20260626014126.png",
+    "Pasted image 20260626014058.png",
+    "assets/html/ejercicios/Pasted image 20260626013912.png",
+    "assets/html/ejercicios/Pasted image 20260421234210.png",
+    "assets/html/ejercicios/Pasted image 20260419232847.png",
+    "assets/html/ejercicios/Pasted image 20260421194211.png",
+    "assets/html/ejercicios/Pasted image 20260414185526.png",
+    "04-Proyectos/html/Movie Ranking Project 01.md",
     "00-sistema/Dashboard.md",
     "00-sistema/Índice de programación.md",
     "04-Proyectos/html/Birthday Invitation.md",
-    "04-Proyectos/html/Movie Ranking Project 01.md",
     "03-Ejercicios/html/Nesting and indentation.md",
     "03-Ejercicios/html/Paragraph Elements.md",
     "02-fundamentos/01-html/HTML.md",
@@ -218,17 +225,10 @@
     "02-fundamentos/01-html/Rutas del Archivo.md",
     "assets/html/ejercicios/Pasted image 20260526163800.png",
     "Pasted image 20260526163746.png",
-    "assets/html/ejercicios/Pasted image 20260525192232.png",
-    "assets/html/fundamentos/Pasted image 20260420213910.png",
-    "assets/html/fundamentos/Pasted image 20260414015201.png",
-    "assets/html/fundamentos/Pasted image 20260414191401.png",
     "assets/html/fundamentos",
     "Sin nombre",
     "assets/html/proyectos",
     "assets/html/ejercicios/Sin nombre",
-    "assets/html/proyectos/Pasted image 20260523220814.png",
-    "assets/html/ejercicios/Pasted image 20260416170119.png",
-    "assets/html/ejercicios/Pasted image 20260414185526.png",
     "04-Proyectos/html",
     "04-Proyectos",
     "03-Ejercicios/html",
@@ -243,7 +243,6 @@
     "02-fundamentos/03-javascript/JavaScript.md",
     "02-fundamentos/03-javascript",
     "03-JavaScript/JavaScript.md",
-    "Assets/Sin título.md",
-    "Elementos de encabezado.md"
+    "Assets/Sin título.md"
   ]
 }
